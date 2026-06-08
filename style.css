@@ -145,5 +145,7 @@ footer {
   color: #ff5e00;
   margin-bottom: 10px;
 }
-
+html {
+  scroll-behavior: smooth;
+}
 
