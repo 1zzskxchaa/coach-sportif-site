@@ -141,6 +141,9 @@ footer {
     align-items: center;
   }
 }
-
+.card h3 {
+  color: #ff5e00;
+  margin-bottom: 10px;
+}
 
 
