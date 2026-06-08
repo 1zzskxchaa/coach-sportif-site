@@ -36,8 +36,8 @@ nav a {
 
 nav a:hover {
   opacity: 1;
+  color: #ff5e00;
 }
-
 /* HERO */
 .hero {
   text-align: center;
