@@ -41,17 +41,21 @@ nav a:hover {
 /* HERO */
 .hero {
   text-align: center;
-  padding: 120px 20px;
-  background: linear-gradient(135deg, #111, #1c1c1c);
+  padding: 140px 20px;
+  background: radial-gradient(circle at top, #1a1a1a, #0b0b0b);
 }
 
 .hero h2 {
-  font-size: 2.5rem;
+  font-size: 3rem;
+  font-weight: bold;
   margin-bottom: 15px;
 }
 
 .hero p {
+  font-size: 1.1rem;
   opacity: 0.8;
+  max-width: 600px;
+  margin: auto;
 }
 
 /* BUTTON */
